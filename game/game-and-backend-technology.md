@@ -1,2 +1,0 @@
-# Game and Backend Technology
-
